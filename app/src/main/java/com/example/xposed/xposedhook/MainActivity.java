@@ -1,4 +1,4 @@
-package com.example.la0s.xposedhook;
+package com.example.xposed.xposedhook;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;

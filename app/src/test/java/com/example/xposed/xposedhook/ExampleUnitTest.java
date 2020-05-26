@@ -1,4 +1,4 @@
-package com.example.la0s.xposedhook;
+package com.example.xposed.xposedhook;
 
 import org.junit.Test;
 

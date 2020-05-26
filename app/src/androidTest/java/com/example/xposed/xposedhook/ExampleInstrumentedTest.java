@@ -1,4 +1,4 @@
-package com.example.la0s.xposedhook;
+package com.example.xposed.xposedhook;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.example.la0s.xposedhook", appContext.getPackageName());
+        assertEquals("com.example.xposed.xposedhook", appContext.getPackageName());
     }
 }
